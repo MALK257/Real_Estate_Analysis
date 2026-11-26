@@ -8,7 +8,7 @@ Built using **Power BI**.
 ---
 
 ## Dashboard Preview
-![Real Estate Dashboard](image/dashboard.png)
+![Real Estate Dashboard](image/Real%20Estate%20Analysis.jpg)
 
 ---
 
