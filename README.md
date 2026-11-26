@@ -59,3 +59,9 @@ Only **34.83%** of properties are **Sold**. The remaining **1,955 properties (65
 2. Review **For Sale** listings in the **Over 90 Days** bucket first for pricing and marketing adjustments.
 3. Compare **Sold** results across the five listing agents to identify effective practices.
 4. Break down status by property type to locate where unsold inventory concentrates.
+
+
+
+https://github.com/user-attachments/assets/7c5d73ab-7085-49d7-9e42-90ce5f74d4b2
+
+
